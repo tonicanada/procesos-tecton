@@ -3,7 +3,7 @@ const EMPLOYEE_DATA = [
     "Nombre Empresa": "Constructora Tecton S.p.A.",
     "RUT Empresa": "76.407.152-2",
     "Código de Ficha": "F2",
-    RUT: "20.200.718-k",
+    RUT: "20.200.718-K",
     Apellido: "Garagay",
     "Segundo Apellido": "Mateluna",
     Nombre: "Alexis Andrés",
